@@ -1,0 +1,40 @@
+@media (max-width:2560px) {
+    .a{
+        background: #f8413d;
+        padding: 5px 0px;
+    }
+    .a a{
+        color: #fff;
+    }
+    .a p{
+        margin-bottom:0px;
+    }
+    .b{
+        padding: 50px 0px;
+    }
+}
+@media (max-width:1920px) {
+    
+}
+@media (max-width:1440px) {
+    
+}
+@media (max-width:1024px) {
+    
+}
+@media (max-width:768px) {
+    
+}
+@media (max-width:576px) {
+    
+}
+@media (max-width:425px) {
+    
+}
+@media (max-width:375px) {
+    
+}
+@media (max-width:320px) {
+    
+}
+
